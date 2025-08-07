@@ -1,7 +1,10 @@
-# Assigmment 1 - Introduction to AI
+# Assigmment 2 - Introduction to AI
 
 ## Name: Đinh Việt Phát
-## Student ID: SWS00659
+## Student ID: 104999348
+
+## Name: Nguyễn Công Huân
+## Student ID: 104993188
 
 ## Authors
 
