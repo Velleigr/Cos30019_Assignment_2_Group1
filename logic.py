@@ -36,9 +36,7 @@ import heapq
 import itertools
 import random
 from collections import defaultdict, Counter
-
 import networkx as nx
-
 from utils import *
 
 
